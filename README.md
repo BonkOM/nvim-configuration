@@ -3,36 +3,36 @@ mi propia configuración de neovim
 
 ### Requerimentos
 
-**Neovim**
-Arch
-`sudo pacman -S neovim`
-Debian
-`sudo apt install neovim`
-REHL
-`sudo dnf install neovim`
+**Neovim**<br />
+Arch<br />
+`sudo pacman -S neovim`<br />
+Debian<br />
+`sudo apt install neovim`<br />
+REHL<br />
+`sudo dnf install neovim`<br />
 
-**Vim-Plug**
-Unix Neovim
-`sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'`
+**Vim-Plug**<br />
+Unix Neovim<br />
+`sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'`<br />
 
-**Python3**
-Arch
-`sudo pacman -S python`
-Debian
-`sudo apt install python`
-REHL
-`sudo dnf install python`
+**Python3**<br />
+Arch<br />
+`sudo pacman -S python`<br />
+Debian<br />
+`sudo apt install python`<br />
+REHL<br />
+`sudo dnf install python`<br />
 
-**Java Open/JDK**
-Arch
-`sudo pacman -S jdk-openjdk`
-Debian
-`sudo apt install jdk-openjdk`
-REHL
-`sudo dnf install jdk-openjdk`
+**Java Open/JDK**<br />
+Arch<br />
+`sudo pacman -S jdk-openjdk`<br />
+Debian<br />
+`sudo apt install openjdk-jdk`<br />
+REHL<br />
+`sudo dnf install openjdk.x86_64`<br />
 
-**Jedi**
-`pip install jedi`
+**Jedi**<br />
+`pip install jedi`<br />
 
 ## Instalacion
 Mi configuracion esta creada para la edicion de texto común pero tambien para el manejo de codigo python y java script por lo que requerira lo anteriormente mencionado preinstalado.
