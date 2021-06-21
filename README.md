@@ -31,6 +31,9 @@ Debian
 REHL
 `sudo dnf install jdk-openjdk`
 
+**Jedi**
+`pip install jedi`
+
 ## Instalacion
 Mi configuracion esta creada para la edicion de texto común pero tambien para el manejo de codigo python y java script por lo que requerira lo anteriormente mencionado preinstalado.
 El proceso de instalacion es el siguiente:
